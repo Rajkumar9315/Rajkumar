@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm RAJ KUMAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://giphy.com/gifs/K5kfQExKk731K"alt="">
+<img src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="300px" align="right" alt="">
+
 - 🌱 I’m currently learning **C++,Web development**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/raj-kumar-b2b98625](www.linkedin.com/in/raj-kumar-b2b98625)
